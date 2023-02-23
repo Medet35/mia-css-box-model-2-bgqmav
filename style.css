@@ -1,0 +1,15 @@
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 35px;
+}
+div {
+  width: 400px;
+  border: 1px solid rgb(146, 142, 142);
+  padding: 5px;
+  margin: auto;
+  text-align: center;
+}
+.text {
+  color: aliceblue;
+  background-color: black;
+}
